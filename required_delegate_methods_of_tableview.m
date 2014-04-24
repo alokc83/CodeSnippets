@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 86D0DB99-645F-415C-BC9B-19C34DD53514
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark -
 #pragma mark Required delegate method of UITableView
     //need to fix the return statments
