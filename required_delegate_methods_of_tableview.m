@@ -2,7 +2,7 @@
 // Required delegate Methods of TableView
 //
 // IDECodeSnippetCompletionPrefix: tableDelegate
-// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 86D0DB99-645F-415C-BC9B-19C34DD53514
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
