@@ -1,4 +1,4 @@
-// Required delegate Methods of TableView
+// Delegate Methods of TableView
 // Required delegate Methods of TableView
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
