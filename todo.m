@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-#warning TODO : Comment below needs to be implemented in future rel;ea
+#warning TODO : Comment below needs to be implemented in future releases
