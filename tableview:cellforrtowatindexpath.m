@@ -13,8 +13,7 @@
 
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#NSString Cell Identifier #> forIndexPath:indexPath];
     
-    NSArray *items = [[BNRItemStore sharedStore] allItems];
-    BNRItem *item =  items[indexPath.row];
+//This meth
     cell.textLabel.text = <#NSString Text for label#>;
     return cell;
 }
