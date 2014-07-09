@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tablecell</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>
+-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:&lt;#NSString Cell Identifier #&gt; forIndexPath:indexPath];
+    
+//This method call need to be completed
+    
+    cell.textLabel.text = &lt;#NSString Text for label#&gt;;
+    return cell;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4FEE975A-7DBC-42DA-9124-D6D987259AF7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>cellForRTowAtIndexPath</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>tableView:cellForRTowAtIndexPath</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
