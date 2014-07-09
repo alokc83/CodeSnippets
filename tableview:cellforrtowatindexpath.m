@@ -13,7 +13,8 @@
 
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#NSString Cell Identifier #> forIndexPath:indexPath];
     
-//This method call need to be co
+//This method call need to be completed
+    
     cell.textLabel.text = <#NSString Text for label#>;
     return cell;
 }
