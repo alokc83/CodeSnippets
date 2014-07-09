@@ -1,6 +1,7 @@
 // tableView:cellForRTowAtIndexPath
 // cellForRTowAtIndexPath
 //
+// IDECodeSnippetCompletionPrefix: tablecell
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 4FEE975A-7DBC-42DA-9124-D6D987259AF7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
