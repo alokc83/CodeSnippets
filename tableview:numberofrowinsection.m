@@ -10,5 +10,5 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return <#;
+    return <#Number of rows #>;
 }
