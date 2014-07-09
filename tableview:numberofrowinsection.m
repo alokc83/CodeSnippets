@@ -10,5 +10,5 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return [[[BNRItemStore sharedStore] allItems] count];
+    return <#;
 }
