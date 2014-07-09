@@ -11,7 +11,7 @@
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
 
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"UITableViewCell" forIndexPath:indexPath];
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#N forIndexPath:indexPath];
     
     NSArray *items = [[BNRItemStore sharedStore] allItems];
     BNRItem *item =  items[indexPath.row];
