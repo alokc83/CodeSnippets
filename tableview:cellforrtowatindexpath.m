@@ -15,6 +15,6 @@
     
     NSArray *items = [[BNRItemStore sharedStore] allItems];
     BNRItem *item =  items[indexPath.row];
-    cell.textLabel.text = [item description];
+    cell.textLabel.text = <##>;
     return cell;
 }
