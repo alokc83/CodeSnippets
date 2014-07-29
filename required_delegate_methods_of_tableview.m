@@ -1,4 +1,4 @@
-// Delegate Methods of TableView
+// Delegate Methods of TableView Snapshot
 // Required delegate Methods of TableView
 //
 // IDECodeSnippetCompletionPrefix: tableDelegate
