@@ -26,6 +26,6 @@
     // Configure the cell..
     cell.textLabel.text = <#NSString#>;
 
-    return nil;
+    return cell;
     
 }
