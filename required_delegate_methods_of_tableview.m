@@ -24,7 +24,7 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID forIndexPath:indexPath];
     
     // Configure the cell..
-    cell.textLabel.text = <#NSSt
+    cell.textLabel.text = <#NSString#>;
 
     return nil;
     
