@@ -24,7 +24,7 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID forIndexPath:indexPath];
     
     // Configure the cell..
-    cell.textLabel.text = [[NSString alloc] initWithFormat:@"Episode %ld", (long)indexPath.row];
+    cell.textLabel.text = <#NSSt
 
     return nil;
     
