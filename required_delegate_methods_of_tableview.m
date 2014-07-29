@@ -19,7 +19,13 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    const NSString *cellID = @"episodeCell";
     
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellID forIndexPath:indexPath];
+    
+    // Configure the cell..
+    cell.textLabel.text = [[NSString alloc] initWithFormat:@"Episode %ld", (long)indexPath.row];
+
     return nil;
     
 }
