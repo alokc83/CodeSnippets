@@ -1,4 +1,4 @@
-// CustomMTAppearanceCode
+// CustomMTAppearance
 // This code can be inserted in app delegate to use full extent of MTApperance
 //
 // IDECodeSnippetCompletionPrefix: custommtappear
