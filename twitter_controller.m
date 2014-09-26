@@ -9,7 +9,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 
- NSString *tweetText = [NSString stringWithFormat:@"%@",tweetString];
+NSString *tweetText = [NSString stringWithFormat:<#NSS,tweetString];
 SLComposeViewController *composer = [SLComposeViewController composeViewControllerForServiceType:SLServiceTypeTwitter];
     [composer setInitialText:tweetText];
     [self presentViewController:composer animated:YES completion:nil];
