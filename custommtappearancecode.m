@@ -1,6 +1,7 @@
 // CustomMTAppearanceCode
 // This code can be inserted in app delegate to use full extent of MTApperance
 //
+// IDECodeSnippetCompletionPrefix: custommtappear
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 8E2BDC79-008B-4110-AE7E-5724FBF495DC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
