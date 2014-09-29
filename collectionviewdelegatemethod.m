@@ -13,7 +13,7 @@
 -(NSInteger)numberOfSectionsInCollectionView:
 (UICollectionView *)collectionView
 {
-    return <#NS;
+    return <#NSInteger#>;
 }
 
 -(NSInteger)collectionView:(UICollectionView *)collectionView
