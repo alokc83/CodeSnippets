@@ -25,7 +25,7 @@
 -(UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
                  cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
-    <#UICollectionView *myCell = [collectionView
+    <#UICollectionViewCell *#> *myCell = [collectionView
                                     dequeueReusableCellWithReuseIdentifier:@"myCell"
                                     forIndexPath:indexPath];
     
