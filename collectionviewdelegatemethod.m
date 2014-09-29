@@ -19,7 +19,7 @@
 -(NSInteger)collectionView:(UICollectionView *)collectionView
     numberOfItemsInSection:(NSInteger)section
 {
-    return <#NSInteger#;
+    return <#NSInteger#>;
 }
 
 -(UICollectionViewCell *)collectionView:(UICollectionView *)collectionView
