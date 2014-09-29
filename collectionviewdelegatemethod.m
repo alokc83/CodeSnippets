@@ -32,7 +32,7 @@
     UIImage *image;
     long row = [indexPath row];
     
-    image = [UIImage imageNamed:<#NSMutableArray [row]];
+    image = [UIImage imageNamed:<#NSMutableArray *#>[row]];
     
     myCell.imageView.image = image;
     
