@@ -1,5 +1,5 @@
 // CollectionViewDelegateMethod
-// 
+// Basic Delegate Methods for Collection View
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 8FE75675-6668-4BB5-BEDA-F63FADBB02F3
