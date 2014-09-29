@@ -26,7 +26,7 @@
                  cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
     <#UICollectionViewCell *#> *myCell = [<#UICollectionView *#>
-                                    dequeueReusableCellWithReuseIdentifier:@"myCell"
+                                          dequeueReusableCellWithReuseIdentifier:<#NSString *#>
                                     forIndexPath:indexPath];
     
     UIImage *image;
