@@ -1,4 +1,4 @@
-// tableView:cellForRTowAtIndexPath
+// tableview:cellforrtowatindexpath
 // cellForRTowAtIndexPath
 //
 // IDECodeSnippetCompletionPrefix: tablecell
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// tableView: cellForRTowAtIndexPath
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {

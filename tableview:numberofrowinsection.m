@@ -1,4 +1,4 @@
-// tableView:numberOfRowInSection
+// tableview:numberofrowinsection
 // 
 //
 // IDECodeSnippetCompletionPrefix: tablerows
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// tableView: numberOfRowInSection
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
