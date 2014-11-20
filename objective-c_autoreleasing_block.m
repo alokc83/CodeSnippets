@@ -3,11 +3,11 @@
 //
 // IDECodeSnippetCompletionPrefix: @autoreleasepool
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: FF337398-CA18-4163-86E8-30E54608005D
+// IDECodeSnippetIdentifier: C1B07A0C-126D-4FB1-A512-2F3BD44F92AD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetRelativePriority: 1
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 @autoreleasepool {
     <#statements#>
 }
