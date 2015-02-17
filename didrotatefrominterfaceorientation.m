@@ -9,16 +9,7 @@
 // IDECodeSnippetVersion: 0
 - (void)didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation{
     if (fromInterfaceOrientation == UIInterfaceOrientationPortrait) {
-//        self.splashScreen.alpha = 0.0f;
-//        [UIView animateWithDuration:.5f animations:^{
-//            self.splashScreen.image = [UIImage imageNamed:@"splashScreenLandscape"];
-//            self.splashScreen.alpha = 1.0f;
-//        }
-//         completion:^(BOOL finished) {
-//             NSLog(@"animation done");
-//         }
-//         ];
-        self.splashScreen.image = [UIImage imageNamed:@"splashScreenLandscape"];
+// put lan
         
     }
     else if (fromInterfaceOrientation == UIInterfaceOrientationLandscapeLeft){
