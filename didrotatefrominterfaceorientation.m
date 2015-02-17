@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
 - (void)didRotateFromInterfaceOrientation:(UIInterfaceOrientation)fromInterfaceOrientation{
     if (fromInterfaceOrientation == UIInterfaceOrientationPortrait) {
-// put lan
+// put lanscape code here
         
     }
     else if (fromInterfaceOrientation == UIInterfaceOrientationLandscapeLeft){
