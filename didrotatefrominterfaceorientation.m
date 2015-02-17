@@ -1,6 +1,7 @@
 // didRotateFromInterfaceOrientation
 // 
 //
+// IDECodeSnippetCompletionPrefix: didrotatefrom
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 428A4E81-996E-437D-B273-8A88E58DF1D5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
