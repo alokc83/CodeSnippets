@@ -13,7 +13,7 @@
         
     }
     else if (fromInterfaceOrientation == UIInterfaceOrientationLandscapeLeft){
-//portait
+//portait code
     }
     else if(fromInterfaceOrientation == UIInterfaceOrientationLandscapeRight){
         self.splashScreen.image = [UIImage imageNamed:@"splashScreenPortrait"];
