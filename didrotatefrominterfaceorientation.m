@@ -1,5 +1,5 @@
 // didRotateFromInterfaceOrientation
-// 
+// for orientaion programming
 //
 // IDECodeSnippetCompletionPrefix: didrotatefrom
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
