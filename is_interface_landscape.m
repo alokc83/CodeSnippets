@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
     if (UIInterfaceOrientationIsLandscape([[UIDevice currentDevice] orientation])) {
-//land
+//landscape code
     }
     else{
         self.splashScreen.image = [UIImage imageNamed:@"splashScreenPortrait"];
