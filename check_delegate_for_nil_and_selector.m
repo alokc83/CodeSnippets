@@ -7,7 +7,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 if (self.delegate != nil && [self.delegate respondsToSelector:@selector(<#selector#>:)]){
-    [self.delegate <#selector and argument];
+    [self.delegate <#selector and argument#>];
     }
     else{
         NSLog(@"Something wrong with delegate");
