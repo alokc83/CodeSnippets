@@ -6,7 +6,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-if (self.delegate != nil && [self.delegate respondsToSelector:@selector(<#selecto:)]){
+if (self.delegate != nil && [self.delegate respondsToSelector:@selector(<#selector#>:)]){
         [self.delegate updateTextColorWithColor:button.backgroundColor];
     }
     else{
