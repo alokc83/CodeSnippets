@@ -1,5 +1,5 @@
 // viewWillTransitionToSize
-// 
+// for orientation support
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 527BE2F5-C39D-4924-A53C-E9EF14B8D26E
