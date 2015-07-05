@@ -1,4 +1,4 @@
-// Appirater 
+// Basic Blcok of Appirater 
 // code block that set Appiraters properties 
 //
 // IDECodeSnippetCompletionPrefix: appirater
