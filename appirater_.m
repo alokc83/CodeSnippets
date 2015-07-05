@@ -1,5 +1,5 @@
 // Appirater 
-// 
+// code block that set Appiraters properties 
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 289BAA7B-3EDA-44A0-BFA3-222D850BA5B7
