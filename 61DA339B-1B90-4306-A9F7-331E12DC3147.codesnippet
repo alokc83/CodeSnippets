@@ -21,7 +21,7 @@ SLComposeViewController *composer = [SLComposeViewController composeViewControll
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Invoking twitter controller</string>
+	<string>Invoking twitter controller :tag:user</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Twitter Controller</string>
 	<key>IDECodeSnippetUserSnippet</key>

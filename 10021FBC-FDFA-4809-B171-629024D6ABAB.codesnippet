@@ -18,6 +18,8 @@
 	<string>10021FBC-FDFA-4809-B171-629024D6ABAB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>:tag:user</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>tableView:numberOfRowInSection</string>
 	<key>IDECodeSnippetUserSnippet</key>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>dispatch_sync(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)) {
+            () -&gt; Void in
+            &lt;#fucntion that is time consuming#&gt;
+            
+            //update UI
+            dispatch_async(dispatch_get_main_queue()){
+                () -&gt; Void in
+                //update main thred here 
+                // like stopping indicator 
+                
+            }
+        }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>83BD48CF-B78E-4169-B93C-6F3555DC9AEB</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Dispatching to background and updating main when done. :tag:user:swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>GCD: dispatch_sync(dispatch_get_global_queue</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

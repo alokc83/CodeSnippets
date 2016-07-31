@@ -16,6 +16,8 @@
 	<string>29BFD5CE-35E7-438A-9B33-DF60AA1E3B86</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.XML</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>:tag:user:swift</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Plist App Transport Security </string>
 	<key>IDECodeSnippetUserSnippet</key>

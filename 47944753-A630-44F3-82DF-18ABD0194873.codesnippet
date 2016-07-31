@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(&lt;#preferedFontChangeMethosName#&gt;), name: UIContentSizeCategoryDidChangeNotification, object: nil)
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>47944753-A630-44F3-82DF-18ABD0194873</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>When preferred font change notification oberserver needs to be added </string>
+	<key>IDECodeSnippetTitle</key>
+	<string>AddObserver - PreferredFontChangeNotification-Swift3.0</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
