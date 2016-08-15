@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeExpression</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>                var excludedActivityArray = [String]()
+                if #available(iOS 9.0, *) {
+                    excludedActivityArray = [UIActivityTypePrint,
+                                                        UIActivityTypePostToVimeo,
+                                                        UIActivityTypePostToWeibo,
+                                                        UIActivityTypeOpenInIBooks,
+                                                        UIActivityTypePostToFlickr,
+                                                        UIActivityTypeAssignToContact,
+                                                        UIActivityTypeSaveToCameraRoll,
+                                                        UIActivityTypeAddToReadingList,
+                                                        UIActivityTypePostToTencentWeibo]
+                } else {
+                    excludedActivityArray = [UIActivityTypePrint,
+                                                        UIActivityTypePostToVimeo,
+                                                        UIActivityTypePostToWeibo,
+                                                        UIActivityTypePostToFlickr,
+                                                        UIActivityTypeAssignToContact,
+                                                        UIActivityTypeSaveToCameraRoll,
+                                                        UIActivityTypeAddToReadingList,
+                                                        UIActivityTypePostToTencentWeibo]
+                }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0E8A96C6-AE5D-4627-A31B-108064878E36</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>adding [String] to code that can be assigned to excluded activity array</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Excluded Activity of UIActivityController :tag:user:swift</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

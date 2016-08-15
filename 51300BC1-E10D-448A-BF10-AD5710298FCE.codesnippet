@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        &lt;key&gt;CFBundleURLTypes&lt;/key&gt;
+        &lt;array&gt;
+        &lt;dict&gt;
+        &lt;key&gt;CFBundleURLSchemes&lt;/key&gt;
+        &lt;array&gt;
+            &lt;string&gt;fb&lt;# facebook app id#&gt;&lt;/string&gt;
+        &lt;/array&gt;
+        &lt;/dict&gt;
+        &lt;/array&gt;
+        &lt;key&gt;FacebookAppID&lt;/key&gt;
+        &lt;string&gt;&lt;# facebook appid #&gt;&lt;/string&gt;
+        &lt;key&gt;FacebookDisplayName&lt;/key&gt;
+        &lt;string&gt;&lt;# facebook app name#&gt;&lt;/string&gt;
+        &lt;key&gt;LSApplicationQueriesSchemes&lt;/key&gt;
+        &lt;array&gt;
+        &lt;string&gt;fbapi&lt;/string&gt;
+        &lt;string&gt;fb-messenger-api&lt;/string&gt;
+        &lt;string&gt;fbauth2&lt;/string&gt;
+        &lt;string&gt;fbshareextension&lt;/string&gt;
+        &lt;/array&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>51300BC1-E10D-448A-BF10-AD5710298FCE</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.XML</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>:tag:user:</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Adding Facebook Step 1</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
