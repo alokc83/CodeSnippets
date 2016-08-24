@@ -1,1 +1,3 @@
-/Users/Alix/Library/Developer/Xcode/UserData/CodeSnippets
+~/Library/Developer/Xcode/UserData/CodeSnippets
+
+clone this repo to above path to show up in XCODE
