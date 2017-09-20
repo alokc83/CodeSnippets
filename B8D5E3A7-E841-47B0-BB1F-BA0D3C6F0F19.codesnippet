@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>            &lt;#UI element that you want to animate, properties like aplha or hidden#&gt;
+            UIView.animateWithDuration(0.25, animations: {
+                self.view.layoutIfNeeded()
+            })</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>B8D5E3A7-E841-47B0-BB1F-BA0D3C6F0F19</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>easy animation around :tag:user:swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Ui Animation </string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

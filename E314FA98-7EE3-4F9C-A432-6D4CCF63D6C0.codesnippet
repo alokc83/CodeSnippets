@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        SCModel.httpClient().getPath("&lt;#api endpoint#&gt;", parameters: &lt;# param dictionary#&gt; as [NSObject : AnyObject], success: { (_, response) in
+                &lt;#Success Code#&gt;
+            }, failure: ApiError.wrapFailure({ failure in
+                print(failure)
+                &lt;#failure code#&gt;
+            })
+        )</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E314FA98-7EE3-4F9C-A432-6D4CCF63D6C0</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>get request for silvercar backend :tag:user :tag:swift :tag:Silvercar</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SCModel Get Request</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
