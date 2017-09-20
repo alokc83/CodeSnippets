@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>IDECodeSnippetVersion</key>
+		<integer>1</integer>
+		<key>IDECodeSnippetCompletionPrefix</key>
+		<string>This is dummy system Snippet</string>
+		<key>IDECodeSnippetContents</key>
+		<string>As long as this one entry stays in SystemCodeSnippets.codesnippets located in /Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Versions/A/Resources/. xcode won't crash</string>
+		<key>IDECodeSnippetIdentifier</key>
+		<string>986936BB-E0FE-4E7E-9A79-E3C77528204E</string>
+		<key>IDECodeSnippetLanguage</key>
+		<string>Xcode.SourceCodeLanguage.Swift</string>
+		<key>IDECodeSnippetSummary</key>
+		<string>Hack to remove useless system snippets.</string>
+		<key>IDECodeSnippetTitle</key>
+		<string>Just a hack</string>
+		<key>IDECodeSnippetCompletionScopes</key>
+		<array>
+			<string>TopLevel</string>
+		</array>
+	</dict>
+</array>
+</plist>
