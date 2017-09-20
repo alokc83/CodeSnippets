@@ -1,3 +1,13 @@
 ~/Library/Developer/Xcode/UserData/CodeSnippets
 
 clone this repo to above path to show up in XCODE
+
+
+Delete C++ snippet  
+find . | xargs grep -l C++ | awk '{print "rm "$1}' > cpp.sh
+
+find . | xargs grep -l "Xcode.SourceCodeLanguage.C" | awk '{print "rm "$1}' > deleteMe.sh
+
+Delete 
+find . | xargs grep -l Objective-C | awk '{print "rm "$1}' > objc.sh
+
