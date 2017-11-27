@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>genieani :tag:user:swift:animation</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>        UIView.animate(withDuration: 0.25, animations: {
+            &lt;#View to animate#&gt;.transform = CGAffineTransform(scaleX: 2.0, y: 2.0)
+        }) { (_) in
+            UIView.animate(withDuration: 0.25, animations: {
+                &lt;#View to Animate#&gt;.transform = CGAffineTransform.identity
+            })
+        }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>90094B32-AF75-4833-9595-B2979FE3B5F1</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Genie View animation</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Gennie View Animation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
